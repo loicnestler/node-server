@@ -10,7 +10,8 @@
   "exports": {
     ".": "./dist/index.js",
     "./serve-static": "./dist/serve-static.js",
-    "./nextjs": "./dist/nextjs.js"
+    "./nextjs": "./dist/nextjs.js",
+    "./listener": "./dist/listener.js"
   },
   "typesVersions": {
     "*": {
